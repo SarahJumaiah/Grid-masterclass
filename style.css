@@ -149,27 +149,27 @@
     .item2 {
       background-image: url("pimg1.png");
       grid-row: 1;
-      height: 30vh;
+      height: 35vh;
     }
     .item1 {
       background-image: url("pimg2.png");
       grid-row: 2;
-      height: 60vh;
+      height: 65vh;
     }
     .item3 {
       background-image: url("pimg3.png");
       grid-row: 3;
-      height: 40vh;
+      height: 45vh;
     }
     .item6 {
       background-image: url("pimg4.png");
       grid-row: 4;
-      height: 40vh;
+      height: 45vh;
     }
     .item4 {
       background-image: url("pimg5.png");
       grid-row: 5;
-      height: 80vh;
+      height: 85vh;
     }
     .item8 {
       background-image: url("pimg6.png");
