@@ -134,7 +134,7 @@
 }
 
 
-@media (max-width: 1400px) {
+@media (max-width: 1200px) {
     .grid-container {
       grid-template-columns: 1fr;
       grid-template-rows: auto;
