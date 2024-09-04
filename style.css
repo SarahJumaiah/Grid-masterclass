@@ -17,9 +17,11 @@ h1, .container2-tit, .container8-titlw, .container10-title {
 .container1 {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  padding: 10px;
 }
 
+.container1-content{
+  padding: 10px;
+}
 .container1-title {
   font-size: 1.4rem;
   font-weight: bold;
